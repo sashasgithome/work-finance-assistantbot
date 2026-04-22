@@ -29,6 +29,8 @@ As such, the chatbot's capabilities are limited to : (1) listing, (2) finding ma
 | _summation_ | What is my spending on _groceries_ since June 2024? | 
 | _max/min_ | _What stores did I purchase my gas at and what's the most I have paid so far?_ | 
 
+In addition, context-saving (memory) is not applied.
+
 <br>
 
 ### CODE & ARCHITECTURE
@@ -48,6 +50,6 @@ Illustrative take on the architecture can be seen in `documentation/product-pitc
 ### DEPLOYMENT
 Try bot yourself : [https://bankingpa-ssh.streamlit.app/](https://bankingpa-ssh.streamlit.app/)
 
-See bot in action : [trial demo]()
+See bot in action : [trial demo](https://drive.google.com/file/d/16U8SIN9ilphq6rmazmHRRAovfSp8Otx0/view?usp=sharing)
 
 _This demo uses _free Gemini account_ that may limit your experience as queries that can be sent are limited._
