@@ -1,4 +1,4 @@
-# Finance Bot Prototype
+# Prototype of Financial Assistant Bot for Banking App
 
 ### ABOUT
 
