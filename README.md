@@ -48,8 +48,6 @@ Illustrative take on the architecture can be seen in `documentation/product-pitc
 <br>
 
 ### DEPLOYMENT
-Try bot yourself : [https://bankingpa-ssh.streamlit.app/](https://bankingpa-ssh.streamlit.app/)
-
 See bot in action : [trial demo](https://drive.google.com/file/d/16U8SIN9ilphq6rmazmHRRAovfSp8Otx0/view?usp=sharing)
 
 _This demo uses _free Gemini account_ that may limit your experience as queries that can be sent are limited._
